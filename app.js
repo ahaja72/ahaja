@@ -1,5 +1,5 @@
 // CONFIGURATION: Replace this with your actual KakaoTalk Open Chat link
-const KAKAO_OPEN_CHAT_URL = "https://open.kakao.com/o/sXXXXXXXX"; // 예: https://open.kakao.com/o/s1234567
+const KAKAO_OPEN_CHAT_URL = "https://open.kakao.com/o/sI4KhIyi";
 
 document.addEventListener("DOMContentLoaded", () => {
   // 1. Set KakaoTalk Link Dynamically
